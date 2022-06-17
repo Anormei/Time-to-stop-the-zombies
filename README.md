@@ -1,4 +1,4 @@
-# fullgame
+# Time-to-stop-the-zombies
 
 Play this game here!:
 
